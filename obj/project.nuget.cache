@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXMRhta3aWE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bpalanisamy3\\GITHUB\\CoreApp\\CoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bpalanisamy3\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
